@@ -3,7 +3,7 @@ var PanelMktCtrl = function() {
 	var self;
 	var PanelMktCtrl = function() {};
 
-    var domain = "http://127.0.0.1:8887/teste_gauge/";
+    var domain = "https://dvdpansardis.github.io/";
 
     var listBrands = [];
     var listInteractions = [];
